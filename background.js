@@ -1,4 +1,4 @@
-
+// Background scripts
 chrome.runtime.onInstalled.addListener(() => {
 
   chrome.contextMenus.create({
